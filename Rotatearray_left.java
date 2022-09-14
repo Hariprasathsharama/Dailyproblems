@@ -1,5 +1,5 @@
 import java.util.*;
-public class Rotatearray {
+public class Rotatearray_left {
     public static void main(String[] args) {
        
         System.out.println("Enter the element of the array");
