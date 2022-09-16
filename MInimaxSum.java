@@ -11,7 +11,7 @@ public class MInimaxSum {
                     continue;
                 }
                 else{
-                    sum+=a[j];
+                    sum+=a[i];
                     arr[k++]=sum; 
                 }
                  
